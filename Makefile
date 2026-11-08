@@ -1,4 +1,3 @@
-
 student: stud_main.o stude_add.o stud_del.o student_show.o student_mod.o stud_save.o stud_sort.o stud_delete_all.o stud_reverse_links.o stud_free.o
 	cc stud_main.o stude_add.o stud_del.o student_show.o student_mod.o stud_save.o stud_sort.o stud_delete_all.o stud_reverse_links.o stud_free.o -o student
 
